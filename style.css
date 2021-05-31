@@ -32,7 +32,7 @@ h1{
     font-weight: 500;
 } 
 #container{
-    display: grid;
+    display: flex;
     flex-wrap: wrap;
 
 }
