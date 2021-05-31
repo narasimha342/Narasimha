@@ -1,0 +1,138 @@
+#nav-bar ul li a:hover{
+    color:blue;
+}
+.navbar-brand{
+    
+    margin:20px;
+}
+.nav-link{
+   
+   text-align:right;
+   color:black;
+   font-size:16px;
+   font-weight: 600;
+  
+}
+h1{
+    font-family: algerian;
+    margin:20px;
+}
+#slider{
+    padding-bottom:100px;
+    margin:50px;
+    height: 500px;
+    image-resolution: 720p;
+}
+#about{
+    padding-top:400px;
+    margin-left:20px;
+}
+.about-content{
+    padding:20px;
+    font-weight: 500;
+} 
+#container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#container>div{
+    margin-left:20px;
+    padding:20px;
+    background-color:burlywood;
+    margin-bottom: 20px;
+
+
+    
+}
+#boo{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left:20px;
+}
+#jaz{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left:20px;
+}
+
+
+
+    
+    
+
+#faculty{
+    padding:200px;
+}
+#fac{
+  
+    padding-top:30px;
+    margin-left: 20px;
+    padding-bottom:30px;
+}
+
+
+#fac{
+  
+    padding-top:30px;
+    margin-left: 20px;
+    padding-bottom:30px;
+}
+#container>tr{
+    padding-top:200px;
+    margin:200px;
+}
+#container td li{
+    text-align: left;
+    padding-top:0px;
+}
+#syllabus{
+    padding:20px;
+}
+#syll{
+    padding-bottom:50px;
+}
+.accordion-button:hover{
+    color:black;
+    font-weight: 800;
+}
+#scrollspylinks{
+
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#scrollspyFaculty{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+#scrollspyjobs{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+#scrollspybooks{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+#scrollspysyllabus{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+#scrollspyAboutus{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
