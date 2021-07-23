@@ -1,3 +1,4 @@
+
 #nav-bar ul li a:hover{
     color:blue;
 }
@@ -95,9 +96,11 @@ h1{
     padding-bottom:50px;
 }
 .accordion-button:hover{
-    color:magenta;
+    color:black;
     font-weight: 800;
 }
+
+
 #scrollspylinks{
 
     padding-left: 20px;
